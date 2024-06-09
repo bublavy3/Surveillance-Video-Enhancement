@@ -1,1 +1,1 @@
-To be written
+This is official github page of bachelor thesis 'Enhancement of security cameras images' by Ondrej Bublavý. In 'src' folder there is stored both code created within the thesis, and also legacy projects on which some of its methods depend by other authors. Documentation is in form of pydoc-compatible comments in PEP standard inside the code for every method.
